@@ -1,0 +1,46 @@
+# Question
+
+As a mentor, you are invested in every student’s progress, as well as responsible for ensuring high task completion and graduation rates for our bootcamps.
+As most of our students are completely online, mentors and students don’t meet in person.
+How would you look out for potential ‘dropout factors’ in a student, and what would you do to ensure they don’t drop out?
+
+# Answer
+
+Due to the fact that most of the students are completely online some dropout factors that I would look for may include the following.
+
+-A lack of consistency in submissions and work ethic.
+If a student is not consistent with their submissions or their work ethic, This may be an indication of a lack of understanding/motivation which
+may lead to the student falling behind and losing core concepts. This may have a negative effect on the student and lead to them dropping out of the course.
+
+A solution to prevent the student of dropping out due to a situation such as this would be to reach out to the student and have a synchronous call
+in which these issues may be addressed and the student can get a solid foundation of concepts they may not understand. The student can also receive
+guidance on the importance of a good work ethic and how it may affect him/her In the technical world.
+
+- Difficulty Understanding Course Content, Especially early on in the course.
+Some students may find it a challenge to understand the course content. This may be due to reasons such as a lack in prior knowledge, such as solid math foundation,
+or due to the student overlooking important topics in the course. A situation such as this could lead to the student falling behind, receiving a lower average and
+eventually being demotivated which may lead to the student dropping out.
+
+A solution to prevent the student from dropping out in a circumstance such as the one mentioned above would be to provide the student with additional
+resources and learning material that may bridge the gap between the students prior knowledge and the course content. Measures can be taken to reach
+out to the student and explain the importance of the content being taught, as well as give the student a good understanding of topics they may not fully
+grasp.
+
+- Reliance On Assistance To Complete Tasks.
+Some students may become reliant on assistance of others to complete their tasks, This may result in the student repetitively booking synchronous calls with
+mentors or reviews to complete their assessments. This may result in the student falling behind and being unable to complete the course leading to the student
+dropping out of the course.
+
+A solution to prevent a student from dropping out in a situation such as the one mentioned above would be to adjust the manner in which the student gains
+support. The student should be assisted in a manner that does not give the student the solution but rather helps them grow their problem-solving skills by
+providing them with steps to take when problem-solving. This method would force the student to find the problem on their own whilst still getting support to
+facilitate this process. The student should be taught how to break down the assessments into more manageable steps that they are able to solve as this is vital
+and will help the student progress further.
+
+- Technological issues
+Some students may have major technological issues such as a lack of stable internet connection. This may result to the student being unable to complete their
+assessments and in some cases even dropping out.
+
+A solution to prevent a student from dropping out in a circumstance such as the one mentioned above would be to provide the student with downloadable
+resources and references to learning material that may assist them even throughout any technological issues they may encounter. The student should also be referred
+to the support team to discuss their situation and any mutually beneficial steps that may be taken in regard to the students course, course length...etc

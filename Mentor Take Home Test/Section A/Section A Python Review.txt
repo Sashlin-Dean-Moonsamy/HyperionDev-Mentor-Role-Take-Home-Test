@@ -1,0 +1,53 @@
+Completeness: 2/4
+Style: 2/4
+Efficiency: 4/4
+Documentation: 1/4
+
+Positive Aspects:
+
+Thank you for your submission, Your Work Is well-thought-out and comprehensive.
+You display a good understanding of working with dictionaries and the for loop.
+This is a great first attempt.
+
+Aspects That Could Be Improved:
+
+# Completion:
+Unfortunately, your program is not functioning as expected. This is due to the following:
+
+- Spacing & Indentation
+Your spacing and indentation are incorrect.
+The code from line 5 - line 12 should be indented into the method defined on line 2.
+
+- Method On Line 2
+Method/Function names should not contain any upper case letters and should always be in
+snake_case if they are more than one word as opposed to camelCase.
+The method would run into a compilation error.
+This is because there is no value parsed into the "sorted()" function
+(Once Indentation Is Corrected It Would Be Either Line 5 or 6.)
+
+- Unnecessary Class
+Whilst your program does produce the desired output, Creating a class (Line 1),
+method (line 2) and object (Line 13) to perform this task can be seen as unnecessary.
+You could achieve the same result by making the method (line 2) a function and calling
+it on the string array (line 14) without having to create the class and the object.
+
+# Style:
+Kindly note that your code is not in line with the PEP 8 Style Guidelines as your
+spacing and indentation are incorrect.
+Your code should contain variable names that are
+more descriptive as this would improve the readability of your code.
+There should always be a two-line space after the last line of a function.
+
+You may refer to the link provided below when making your changes.
+PEP 8 Style Guidelines Link: https://realpython.com/python-pep8/
+
+Documentation:
+Kindly note that your code does not contain any comments. Comments are important
+as they help you and other developers that may work on your code understand the
+software that you have created.
+
+
+Overall Feedback
+
+This is overall a great submission. Please make the relevant changes, resubmit and I
+shall take another look.

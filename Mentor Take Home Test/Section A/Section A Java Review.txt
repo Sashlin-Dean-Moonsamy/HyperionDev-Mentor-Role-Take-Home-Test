@@ -1,0 +1,38 @@
+Correctness: 2/4
+Efficiency: 4/4
+Style: 2/4
+Documentation: 4/4
+
+Positive Aspects:
+Thank you for your submission. Your work is well-thought-out and comprehensive.
+Your code contains correct indentation, spacing and has been well documented.
+You display a good understanding of both java and recursion. This is overall
+a great first attempt.
+
+
+Aspects Of Submission That Could Be Improved:
+// Completion:
+Your program however does not run as expected, This is due to the following:
+
+-The reverse_string method ( line 18) have defined gives an error as you do
+not call the method correctly due to the fact that the declaration of your
+method is not in camel case.
+
+-You should try to use names that are more descriptive when initializing/declaring variables and methods.
+The name of the second method you declare should indicate that it returns a Fibonacci sequence.
+
+-The second method that you have defined on line 28 does not function as expected as your program overrides
+the variable parsed into the function with line 30.
+It should take in a variable of type int not T And your function does not return a value.
+
+// Style:
+Kindly note that your code does not contain the correct style as you have not used the correct naming conventions.
+the class name should be the same name as the file. The First letter of this name should always be capitalized as this
+is best practice. (E.g public class Dog.)
+
+You may refer to the link provided below when making your corrections.
+GeeksforGeeks Java Naming Conventions Link: https://www.geeksforgeeks.org/java-naming-conventions/
+
+
+Overall Feedback
+This is overall a great submission. Please make the relevant changes, resubmit, and I shall take another look.
